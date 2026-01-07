@@ -4,7 +4,7 @@ A wrapper around [ripgrep](https://github.com/BurntSushi/ripgrep) that mimics [s
 
 ## Installation
 ```bash
-curl -o ~/.local/bin/sd-rg https://raw.githubusercontent.com/YOUR_USERNAME/sd-rg/main/sd-rg
+curl -o ~/.local/bin/sd-rg https://raw.githubusercontent.com/elkarouh/sd-rg/main/sd-rg
 chmod +x ~/.local/bin/sd-rg
 ```
 
