@@ -23,7 +23,7 @@ sd-rg -p 'old' 'new' src/
 sd-rg -F '((([])))' '' file.txt
 ```
 
-Run `sd-rg --help` for full documentation.
+Run `sd-rg --help` for documentation or [sd](https://github.com/chmln/sd) full documentation.
 
 ## Dependencies
 
